@@ -26,6 +26,6 @@ export const Sidebar = styled.div`
 
 export const Page = styled.div`
     flex: 1;
-    padding-left: 40px;
-    padding-top: 40px;
+    padding-left: 30px;
+    padding-top: 30px;
 `;

@@ -1,17 +1,3 @@
-Deve conter:
+Projeto realizado para fins de estudo.
 
-Primeiro step (pessoal):
-* Nome Completo
-* Data de nascimento
-
-Segundo step (contato):
-* Telephone
-* E-mail
-* Site
-
-Terceiro step (profissional):
-* Profissão
-* Tempo de trabalho no atual emprego (em anos)
-
-Quarto step (interesse):
-* Quais assuntos tem interesse
+Foi baseado em um projeto do curso de React JS da B7Web.
