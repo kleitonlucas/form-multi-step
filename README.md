@@ -15,8 +15,7 @@
 
 Foram usados no desenvolvimento da aplicação: State, Context, Router e Reducer.
 
-### Autor
-
+_____________________________________________________________
 Kleiton Lucas<br/>
 kleitonlucs@gmail.com<br/>
 https://github.com/kleitonlucas<br/>
