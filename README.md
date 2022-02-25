@@ -13,6 +13,8 @@
 - Typescript
 - Styled Components
 
+Foram usados no desenvolvimento da aplicação: State, Context, Router e Reducer.
+
 ### Autor
 
 Kleiton Lucas<br/>
