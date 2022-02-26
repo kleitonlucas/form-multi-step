@@ -1,6 +1,7 @@
 {
   "name": "form-cadastro",
   "private": true,
+  "homepage": "https://kleitonlucas.github.io/form-multi-step/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
